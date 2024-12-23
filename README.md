@@ -12,6 +12,16 @@ menghitung detak jantung (BPM) dari sinyal rPPG yang lalu dapat digunakan untuk 
 
 ![WhatsApp Image 2024-12-23 at 15 10 36 (1)](https://github.com/user-attachments/assets/d782b979-5266-4699-bbd3-40312333ff72)
 
+## Instruksi Instalasi dan Cara Penggunaan
+-
+
+## Requirements / Dependencies
+Nama                           | Fungsi
+:-------------------------------      | :-------------
+OpenCV          | Pengolahan Video
+Mediapipe       | Pendeteksian Wajah
+Matplotlib      | Visualisasi Sinyal
+
 ## Logbook Mingguan
 Minggu ke-                            | Kegiatan
 :-------------------------------      | :-------------
