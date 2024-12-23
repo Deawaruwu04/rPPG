@@ -2,7 +2,7 @@ Anggota Kelompok
 NAMA                             | NIM             | ID Github
 :------------------------------: | :-------------: | :---------------:
 [Muhammad Taqy Abdullah]         | [121140166]     | 166Taqy
-[Fadel Malik]                    | [121140167]     | Fadel-malik
+[Fadel Malik]                    | [121140167]     | Fadel-Malik
 [Dea Lisriani Safitri Waruwu]    | [121140208]     | Deawaruwu04
 
 
