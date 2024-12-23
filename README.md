@@ -12,6 +12,16 @@ menghitung detak jantung (BPM) dari sinyal rPPG yang lalu dapat digunakan untuk 
 
 ![WhatsApp Image 2024-12-23 at 15 10 36 (1)](https://github.com/user-attachments/assets/d782b979-5266-4699-bbd3-40312333ff72)
 
+## Logbook Mingguan
+Minggu ke-                            | Kegiatan
+:-------------------------------      | :-------------
+Minggu ke-1 (27-30 November 2024)     | -
+Minggu ke-2 (2-8 Desember 2024)       | Melakukan riset dan mencari berbagai referensi mengenai sistem pengukuran sinyal respirasi dan sistem penukuran remote-photopletysmography (rPPG)
+Minggu ke-3 (9-15 Desember 2024)      | Menentukan judul project dan mulai mencoba membuat program
+Minggu ke-4 (16-22 Desember 2024)     | Melanjutkan progress pembuatan program dan laporan
+Minggu ke-5 (23-24 Desember 2024)     | Menyelesaikan program dan laporan serta melakukan pengumpulan
+
+
 ## Anggota Kelompok
 NAMA                             | NIM             | ID Github
 :------------------------------: | :-------------: | :---------------:
