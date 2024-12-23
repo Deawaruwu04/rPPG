@@ -12,6 +12,7 @@ Dengan mengembangkan sistem deteksi sinyal rPPG dan respirasi secara real-
 time dari input video, kita akan dapat memvisualisasikan sinyal yang dihasilkan dalam bentuk grafik dan
 menghitung detak jantung (BPM) dari sinyal rPPG yang lalu dapat digunakan untuk keperluan lainnya.
 
+![WhatsApp Image 2024-12-23 at 15 10 36 (1)](https://github.com/user-attachments/assets/d782b979-5266-4699-bbd3-40312333ff72)
 
 ## Anggota Kelompok
 NAMA                             | NIM             | ID Github
