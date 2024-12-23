@@ -1,6 +1,4 @@
 # Sistem Deteksi dan Visualisasi Sinyal rPPG dan Respirasi Berbasis Webcam Secara Real-time
-
-## Deskripsi:
 Proyek ini bertujuan untuk mendeteksi sinyal Photoplethysmography (rPPG) dan sinyal respirasi dari
 wajah manusia secara real-time menggunakan webcam. Sinyal rPPG digunakan untuk mengukur detak
 jantung, sedangkan sinyal respirasi menggambarkan pola pernapasan. Teknologi yang digunakan pada
