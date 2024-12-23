@@ -1,11 +1,3 @@
-Anggota Kelompok
-NAMA                             | NIM             | ID Github
-:------------------------------: | :-------------: | :---------------:
-[Muhammad Taqy Abdullah]         | [121140166]     | 166Taqy
-[Fadel Malik]                    | [121140167]     | Fadel-Malik
-[Dea Lisriani Safitri Waruwu]    | [121140208]     | Deawaruwu04
-
-
 # Sistem Deteksi dan Visualisasi Sinyal rPPG dan Respirasi Berbasis Webcam Secara Real-time
 
 # Deskripsi:
@@ -19,3 +11,11 @@ parameter fisiologis seperti detak jantung (BPM).
 Dengan mengembangkan sistem deteksi sinyal rPPG dan respirasi secara real-
 time dari input video, kita akan dapat memvisualisasikan sinyal yang dihasilkan dalam bentuk grafik dan
 menghitung detak jantung (BPM) dari sinyal rPPG yang lalu dapat digunakan untuk keperluan lainnya.
+
+
+Anggota Kelompok
+NAMA                             | NIM             | ID Github
+:------------------------------: | :-------------: | :---------------:
+[Muhammad Taqy Abdullah]         | [121140166]     | 166Taqy
+[Fadel Malik]                    | [121140167]     | Fadel-Malik
+[Dea Lisriani Safitri Waruwu]    | [121140208]     | Deawaruwu04
