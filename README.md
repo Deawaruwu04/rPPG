@@ -6,7 +6,7 @@ NAMA                             | NIM             | ID Github
 [Dea Lisriani Safitri Waruwu]    | [121140208]     | Deawaruwu04
 
 
-# Judul: Sistem Deteksi dan Visualisasi Sinyal rPPG dan Respirasi Berbasis Webcam Secara Real-time
+# Sistem Deteksi dan Visualisasi Sinyal rPPG dan Respirasi Berbasis Webcam Secara Real-time
 
 # Deskripsi:
 Proyek ini bertujuan untuk mendeteksi sinyal Photoplethysmography (rPPG) dan sinyal respirasi dari
