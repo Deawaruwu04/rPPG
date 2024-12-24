@@ -29,6 +29,7 @@ Buka terminal atau command prompt, navigasikan ke direktori tempat file tersebut
 
 `python rPPG.py`
 
+
 ## Petunjuk Penggunaan:
 Setelah menjalankan kode program, sebuah jendela akan terbuka menampilkan feed dari webcam Anda. Jika wajah terdeteksi, akan ada kotak di sekitar wajah dan data detak jantung akan dihitung dan ditampilkan dalam konsol.
 Dua plot matplotlib akan diperbarui secara real-time menunjukkan sinyal rPPG (detak jantung) dan sinyal respirasi.
