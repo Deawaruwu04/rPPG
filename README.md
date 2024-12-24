@@ -24,13 +24,13 @@ Jika Anda menggunakan sistem operasi Windows, pastikan **pip** dalam PATH atau g
 ### 3. Kamera Webcam:
 Pastikan Anda memiliki kamera webcam yang dapat diakses oleh sistem Anda. Kode ini menggunakan kamera default (index 0). Jika Anda memiliki lebih dari satu kamera, Anda mungkin perlu mengubah indeks dalam **cv2.VideoCapture(0)**.
 ### 4. Menjalankan Kode:
-Simpan kode dalam file Python, misalnya rppg_deteksi.py.
+Simpan kode dalam file Python.
 Buka terminal atau command prompt, navigasikan ke direktori tempat file tersebut disimpan, dan jalankan dengan:
 
-`python rppg_deteksi.py`
+`python rPPG.py`
 
 ## Petunjuk Penggunaan:
-Setelah menjalankan skrip, sebuah jendela akan terbuka menampilkan feed dari webcam Anda. Jika wajah terdeteksi, akan ada kotak di sekitar wajah dan data detak jantung akan dihitung dan ditampilkan dalam konsol.
+Setelah menjalankan kode program, sebuah jendela akan terbuka menampilkan feed dari webcam Anda. Jika wajah terdeteksi, akan ada kotak di sekitar wajah dan data detak jantung akan dihitung dan ditampilkan dalam konsol.
 Dua plot matplotlib akan diperbarui secara real-time menunjukkan sinyal rPPG (detak jantung) dan sinyal respirasi.
 Tekan 'q' pada keyboard untuk menghentikan program.
 
