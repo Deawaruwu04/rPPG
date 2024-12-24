@@ -38,11 +38,11 @@ Tekan 'q' pada keyboard untuk menghentikan program.
 ## Requirements / Dependencies
 Nama                           | Fungsi
 :-------------------------------      | :-------------
-OpenCV          | Pengolahan Citra dan Tampilan Video
-Mediapipe       | Pendeteksian Wajah
-Matplotlib      | Visualisasi Sinyal
-NumPy           | Manipulasi Array
-SciPy           | Pemrosesan Sinyal dan Deteksi Puncak
+OpenCV v.4.10.0          | Pengolahan Citra dan Tampilan Video
+Mediapipe v.0.10.18       | Pendeteksian Wajah
+Matplotlib v.3.9.2      | Visualisasi Sinyal
+NumPy v.1.26.4           | Manipulasi Array
+SciPy v.1.14.1           | Pemrosesan Sinyal dan Deteksi Puncak
 
 ## Logbook Mingguan
 Minggu ke-                            | Kegiatan
