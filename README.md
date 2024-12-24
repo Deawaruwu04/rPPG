@@ -12,8 +12,27 @@ menghitung detak jantung (BPM) dari sinyal rPPG yang lalu dapat digunakan untuk 
 
 ![WhatsApp Image 2024-12-23 at 15 10 36 (1)](https://github.com/user-attachments/assets/d782b979-5266-4699-bbd3-40312333ff72)
 
-## Instruksi Instalasi dan Cara Penggunaan
--
+## Instruksi Instalasi
+### 1. Instal Python:
+Pastikan Python sudah terinstal pada sistem Anda. Anda bisa mengunduhnya dari python.org jika belum terinstal.
+### 2. Instal Paket yang Diperlukan:
+Buka terminal atau command prompt dan jalankan perintah berikut untuk menginstal paket-paket yang diperlukan:
+
+`pip install opencv-python numpy scipy matplotlib mediapipe`
+
+Jika Anda menggunakan sistem operasi Windows, pastikan **pip** dalam PATH atau gunakan `python -m pip install` sebagai alternatif.
+### 3. Kamera Webcam:
+Pastikan Anda memiliki kamera webcam yang dapat diakses oleh sistem Anda. Kode ini menggunakan kamera default (index 0). Jika Anda memiliki lebih dari satu kamera, Anda mungkin perlu mengubah indeks dalam **cv2.VideoCapture(0)**.
+### 4. Menjalankan Kode:
+Simpan kode dalam file Python, misalnya rppg_deteksi.py.
+Buka terminal atau command prompt, navigasikan ke direktori tempat file tersebut disimpan, dan jalankan dengan:
+
+`python rppg_deteksi.py`
+
+## Petunjuk Penggunaan:
+Setelah menjalankan skrip, sebuah jendela akan terbuka menampilkan feed dari webcam Anda. Jika wajah terdeteksi, akan ada kotak di sekitar wajah dan data detak jantung akan dihitung dan ditampilkan dalam konsol.
+Dua plot matplotlib akan diperbarui secara real-time menunjukkan sinyal rPPG (detak jantung) dan sinyal respirasi.
+Tekan 'q' pada keyboard untuk menghentikan program.
 
 ## Requirements / Dependencies
 Nama                           | Fungsi
@@ -21,6 +40,8 @@ Nama                           | Fungsi
 OpenCV          | Pengolahan Video
 Mediapipe       | Pendeteksian Wajah
 Matplotlib      | Visualisasi Sinyal
+NumPy
+SciPy
 
 ## Logbook Mingguan
 Minggu ke-                            | Kegiatan
