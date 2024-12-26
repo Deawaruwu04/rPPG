@@ -65,3 +65,5 @@ NAMA                             | NIM             | ID Github
 [Muhammad Taqy Abdullah]         | [121140166]     | 166Taqy
 [Fadel Malik]                    | [121140165]     | Fadel-Malik
 [Dea Lisriani Safitri Waruwu]    | [121140208]     | Deawaruwu04
+
+Project ini adalah tugas mata kuliah [IF - 3024] Prodi Teknik Informatika yang diampu oleh dosen Martin Clinton Tosima Manullang, S.T., M.T
